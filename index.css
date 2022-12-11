@@ -1,0 +1,24 @@
+.bg-cor{
+    /* background-color: rgb(209, 52, 164); */
+    background-color: #DE3163;
+}
+
+.logo-coruja{
+    height: 50px;
+    margin-bottom: 8%;
+}
+
+.tamanho-display{
+    height: 100vh;
+    width: 100vw;
+}
+
+.cor-botao{
+    background-color: white;
+    color: rgb(209, 52, 164);
+    border: 0ch;
+}
+
+.cor-botao:hover{
+    background-color: palevioletred;
+}
