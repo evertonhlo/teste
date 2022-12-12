@@ -1,0 +1,42 @@
+.logo-principal{
+    height: 50px;
+   
+}
+
+.cor-padrao{
+   /* background-color: rgb(209, 52, 164); */
+   background-color: #DE3163;
+}
+
+.cor-texto{
+    color: whitesmoke;
+}
+
+.cor-botao {
+    background-color: white;
+    color: rgb(209, 52, 164);
+    border: 0ch;
+}
+
+.cor-botao:hover {
+    background-color: palevioletred;
+}
+
+.icone{
+    background-color: #D9D9D9;
+    height: 55px;
+    width: 55px;
+    color: #DE3163;
+}
+
+.icone_barra{
+     height: 70px;
+     width: 70px;
+     background-color: #D9D9D9;
+}
+
+.remover-estilo-link{
+    text-decoration: none;
+    list-style: none;
+    
+}
